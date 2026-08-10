@@ -50,7 +50,7 @@ cd CENTRALIZED-SOLUTIONS-FOR-ALZIMERS
 
 Install dependencies:
 
-pip install -r requirements.txt
+pip install -r Requirements.txt
 
 
 Run the app:
